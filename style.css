@@ -1,0 +1,75 @@
+body{
+    text-align: center;
+}
+    /* head section */
+#head{
+    background-color: #D57149;
+    font-family: 'Grandstander', cursive; 
+}
+
+#title{
+    padding: 7% 15%;
+    color: white;
+    margin-bottom: 0;
+    font-family: 'Grandstander', cursive;
+    font-size: 2.5rem;
+}
+
+h1,h2,h3,h4,h5,h6,a{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+/* Shopping section */
+.card-column{
+    padding: 3% 5%;
+}
+
+.pricing-btn{
+    width: 50%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.view-btn1, .view-btn2, .view-btn3, .view-btn4, .view-btn5, .view-btn6{
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+.prices{
+    margin-top: 10px;
+}
+
+#viewed-image{
+    width: 40%;
+    height: 30%;
+}
+
+.shopping-image{
+    width: 70%;
+}
+
+#shopping{
+    padding: 5% 0 5% 0;
+}
+
+#nexPrev{
+    text-decoration: none;
+    text-align: right;
+    padding: 1% 7%;
+    font-size: 1.5rem;
+}
+
+.viewedItem{
+    margin-top: 3%;
+}
+
+/* footer */
+#footer{
+    background-color: #D57149;
+    padding: 3% 5%;
+    color: white;
+}
+
+.icon2{
+    padding: 3% 2%;
+}
